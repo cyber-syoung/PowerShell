@@ -1,5 +1,5 @@
 # Specify the OU path and group name
-$ouPath = "OU=DAY Users,OU=Dayton,DC=sugar-creek,DC=com"  # Replace with the desired OU path
+$ouPath = "OU=placeholder,OU=placeholder,DC=placeholder,DC=placeholder"  # Replace with the desired OU path
 $groupName = "NET_VPN_EMPLOYEE"  # Replace with the desired group name
 
 # Connect to the Active Directory module
