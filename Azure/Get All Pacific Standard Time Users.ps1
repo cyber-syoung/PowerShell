@@ -1,3 +1,4 @@
+# The purpose of this script was to grab all of the users found with PST set as their timezone in mailbox configuration, and grab their object creation date. 
 # Connect-MgGraph
 # Connect-ExchangeOnline
 
