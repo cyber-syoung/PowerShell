@@ -10,7 +10,7 @@ $script:groups = @{
 }
 
 # DEBUG variable
-$script:allUsers = @("samuel.young@ashealthnet.com")
+$script:allUsers = @("samuel.young@confidential.com")
 
 # PROD variable
 #$script:allUsers = Get-MgUser -All | Select-Object -ExpandProperty UserPrincipalName 
